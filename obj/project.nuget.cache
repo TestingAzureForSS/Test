@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Mx0SiRekbnYuAdFyxFuIdbIuqZpqbAJFG5F8CSLsLk4uK7NdUyuzsTma+iVq2xZzkRVOibuZMNNlNcGJeJ11LQ==",
+  "dgSpecHash": "AMgw48PDc7NEh+DeKD9CcjH2H3OyhxeNF+Ge2nzUDptsqqCjjfPRsJozjokmJLhb8xd/CumX3qwHhuMnWkfjAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\illyich_\\Desktop\\test\\test.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\illyich_\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
   "logs": []
 }
